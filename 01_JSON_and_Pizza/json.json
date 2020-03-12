@@ -1,0 +1,32 @@
+{
+	"pizzaTypes" :[
+		{
+			"name" : "Classic Pepperoni",
+			"price" : 10.95,
+			"size": "large",
+			"Toppings":[
+			"cheese", "pepperoni"
+		],
+			"image" : "pizza-1.jpg"
+		},
+		{
+			"name" : "Veggie Delight",
+			"price" : 14.00,
+			"size": "Medium",
+			"Toppings":[
+			"cheese", "green pepper","onions"
+		],
+			"image" : "pizza-2.jpg"
+		},
+		{
+			"name": "Hawaiian",
+			"price" : 12.00,
+			"size": "Small",
+			"Toppings":[
+			"cheese", "pineapple",
+			"ham"
+		],
+			"image" : "pizza-3.jpg"
+		}
+	]
+}
